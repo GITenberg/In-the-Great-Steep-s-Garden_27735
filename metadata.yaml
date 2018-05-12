@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9599'
     url: http://www.gutenberg.org/2009/agents/9599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27735#In-the-Great-Steep-s-Garden
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
